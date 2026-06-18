@@ -13,6 +13,8 @@
   <i>Structured, self-paced, project-based curriculum embedded in a real e-commerce codebase.</i>
 </p>
 
+> 📖 **Tentang OpenKB:** Repo ini adalah implementasi dari protokol **OpenKB** — sistem direktori knowledge base terstruktur oleh sandikodev. Bukan protokol itu sendiri. — [Baca selengkapnya →](TENTANG-OPENKB.md)
+
 ---
 
 ## 🧭 Apa Ini?
